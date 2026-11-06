@@ -2,9 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=190&section=header&text=Hi%2C%20I'm%20Ibrahim&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Student%20%7C%20Community%20Builder&descSize=16&descAlignY=60" alt="Hi, I'm Ibrahim — Frontend Developer, CS Student and Community Builder" />
 
-[LinkedIn](https://www.linkedin.com/in/danjuma-ibrahim/) ·
-[Email](mailto:ufidfarooq@gmail.com)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/danjuma-ibrahim/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ufidfarooq@gmail.com)
+
+</div>
 </div>
 
 ## A little about me
@@ -59,6 +62,9 @@ operations, and helping students find opportunities to learn together.
 
 I’m interested in frontend collaborations, student community projects,
 and opportunities to contribute and grow as a developer.
+<div align="center">
 
-[Find me on LinkedIn](https://www.linkedin.com/in/danjuma-ibrahim/) ·
-[Get in touch](mailto:ufidfarooq@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/danjuma-ibrahim/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ufidfarooq@gmail.com)
+
+</div>
