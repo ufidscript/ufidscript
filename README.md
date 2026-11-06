@@ -27,12 +27,9 @@ become a better learner, too.
 
 **What happens to a student community’s knowledge when its leaders leave?**
 
-I built OnboardX to explore that problem. It’s a local community memory
-and handover app where teams can:
+I built OnboardX for the Hacktoberfest “Ghost in the Machine” challenge, inspired by my involvement in student communities at FUTMinna.
 
-- Save decisions, lessons, and unfinished work.
-- Ask questions about saved records and see supporting references.
-- Generate an editable handover draft for the next team.
+It’s a local prototype for saving community decisions, lessons, and unfinished work, asking questions about those records, and generating an editable handover draft.
 
 **Built with:** React · Node.js · Express · Ollama
 
