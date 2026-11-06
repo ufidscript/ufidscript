@@ -1,35 +1,49 @@
-# Hi, I’m Ibrahim 👋
+<div align="center">
 
-**Computer Science student at FUTMinna · Frontend Developer · Community Builder**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=190&section=header&text=Hi%2C%20I'm%20Ibrahim&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Student%20%7C%20Community%20Builder&descSize=16&descAlignY=60" alt="Hi, I'm Ibrahim — Frontend Developer, CS Student and Community Builder" />
 
-I build web projects and help organise opportunities for students to learn,
-build, and connect. My main focus is frontend development with JavaScript
-and React. I’m also exploring cloud and AI through learning and practical projects.
+[LinkedIn](https://www.linkedin.com/in/danjuma-ibrahim/) ·
+[Email](mailto:ufidfarooq@gmail.com)
 
-## Featured project
+</div>
 
-### OnboardX
+## A little about me
 
-A local community memory and handover app I built to help student teams
-preserve information when leadership changes.
+I’m a Computer Science student at **FUTMinna**, focused on frontend
+development with **JavaScript and React**.
 
-It lets users:
+I enjoy building projects around problems I encounter as a student and
+community organiser. I’m also exploring cloud and AI, learning how to
+use them in practical applications.
+
+Alongside coding, I help organise student tech workshops and build
+sessions. Preparing demos and explaining things to others helps me
+become a better learner, too.
+
+## Featured project — OnboardX
+
+**What happens to a student community’s knowledge when its leaders leave?**
+
+I built OnboardX to explore that problem. It’s a local community memory
+and handover app where teams can:
+
 - Save decisions, lessons, and unfinished work.
-- Ask questions about saved records.
-- Generate an editable handover draft.
+- Ask questions about saved records and see supporting references.
+- Generate an editable handover draft for the next team.
 
-**Built with:** React, Express, and Ollama.
+**Built with:** React · Node.js · Express · Ollama
 
 ## Tools I use
 
-**Frontend:** HTML, CSS, JavaScript, React  
-**Version control:** Git and GitHub  
-**Currently exploring:** Cloud fundamentals and AI-powered applications
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&theme=dark" alt="HTML, CSS, JavaScript, React, Git and GitHub" />
+
+**Currently learning:** React, cloud fundamentals, and integrating AI
+into applications.
 
 ## Community involvement
 
-Alongside my coursework and projects, I help organise student tech
-activities at FUTMinna.
+All of these roles are part of my student community involvement at
+**FUTMinna**.
 
 | Community | Role |
 | :-- | :-- |
@@ -38,14 +52,13 @@ activities at FUTMinna.
 | Notion at FUTMinna | Campus Lead |
 | GDGOC FUTMinna | Operations & Partnerships Lead, 2026/2027 |
 
-My contributions include planning workshops, preparing demos, supporting
-event logistics, and helping students get involved. Sharing what I learn
-also helps me strengthen my own understanding.
+I contribute through workshop planning, technical demos, event
+operations, and helping students find opportunities to learn together.
 
 ## Let’s connect
 
-I’m open to frontend collaborations, student community projects, and
-opportunities to contribute while learning from other developers.
+I’m interested in frontend collaborations, student community projects,
+and opportunities to contribute and grow as a developer.
 
-[LinkedIn](https://www.linkedin.com/in/danjuma-ibrahim/) ·
-[Email](mailto:ufidfarooq@gmail.com)
+[Find me on LinkedIn](https://www.linkedin.com/in/danjuma-ibrahim/) ·
+[Get in touch](mailto:ufidfarooq@gmail.com)
